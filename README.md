@@ -20,13 +20,13 @@ Olá, meu nome é Guilhermy Pereira, sou um estudante de Engenharia de Computaç
 ## Resultado Input 1
 <img src="README_IMGS/Input1.png">
 
-##Resultado Input 2
+## Resultado Input 2
 <img src="README_IMGS/Input2.png">
 
-##Resultado Input 3
+## Resultado Input 3
 <img src="README_IMGS/Input3.png">
 
-##Resultado Input 4
+## Resultado Input 4
 <img src="README_IMGS/Input4.png">
 
 
